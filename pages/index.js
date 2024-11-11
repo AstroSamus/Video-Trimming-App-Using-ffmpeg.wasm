@@ -7,7 +7,7 @@ import RangeInput from "../components/RangeInput";
 
 const FF = createFFmpeg({
   // log: true,
-  corePath: "https://unpkg.com/@ffmpeg/core@0.10.0/dist/ffmpeg-core.js"
+  corePath: "/ffmpeg/core/dist/ffmpeg-core.js"
 });
 
 (async function () {
