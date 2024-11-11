@@ -144,7 +144,7 @@ function App() {
     <main className="App">
       <div className="header">
         <svg width="272" height="280" viewBox="0 0 272 280" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <g clip-path="url(#clip0_415_368)">
+          <g clipPath="url(#clip0_415_368)">
           <path d="M191.932 66.084H191.151V196.054H191.932V66.084Z" fill="#383838"/>
           <path d="M202.36 72.2628L191.597 195.584L192.375 195.652L203.138 72.3307L202.36 72.2628Z" fill="#383838"/>
           <path d="M221.296 83.2205L191.303 195.369L192.057 195.571L222.051 83.4223L221.296 83.2205Z" fill="#383838"/>
